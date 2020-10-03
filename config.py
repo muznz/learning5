@@ -11,7 +11,7 @@ class DevelopmentConfig(Config):
 
   
   
-
+    FLASK_APP = "app.py"
     FLASKS3_BUCKET_DOMAIN = "s3-ap-southeast-2.amazonaws.com"
     FLASKS3_REGION = "ap-southeast-2"
     FLASKS3_ACTIVE = "True"

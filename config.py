@@ -6,8 +6,8 @@ class DevelopmentConfig(Config):
 
     ACL = 'public-read'
     FLASKS3_BUCKET_NAME = "murray-wagtail"
-    AWS_ACCESS_KEY_ID = "AKIAWP7UQBNZ5V752LF6"
-    AWS_SECRET_ACCESS_KEY = "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"
+    
+    
 
   
   
